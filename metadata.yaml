@@ -1,0 +1,29 @@
+_repo: -Way-Down-East--13-A-Romance-of-New-England-Life_16959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Parker, Lottie Blair
+    gutenberg_agent_id: '38465'
+    url: http://www.gutenberg.org/2009/agents/38465
+  - agent_name: Grismer, Joseph Rhode
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '7051'
+    url: http://www.gutenberg.org/2009/agents/7051
+description: ''
+gutenberg_issued: '2005-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New England -- Fiction'
+title: "'Way Down East\r\nA Romance of New England Life"
+url: http://www.gutenberg.org/ebooks/16959
